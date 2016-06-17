@@ -1,0 +1,46 @@
+body
+{
+	background-color: #eceff0;
+}
+
+.list
+{
+	width: 100%;
+	max-width: 500px;
+	margin: 10px auto;
+	background-color: #ffffff;
+	padding: 10px;
+	border-style: solid;
+	border-radius: 10px;
+	border-width: 5px;
+	border-color: black;
+}
+
+.list .header
+{
+	font-family: 'Indie flower';
+	font-size:80px;
+}
+
+.items
+{
+	font-family:'Poiret One';
+	font-size:25px;
+	list-style: none;
+	
+}
+
+.items .item
+{
+}
+
+.items .item_done
+{
+	text-decoration: line-through;
+}
+
+.items .li
+{
+	padding: 15px;
+}
+
